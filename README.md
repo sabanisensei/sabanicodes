@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="#-quick-start">Quick Start</a>
-  ·
-  <a href="#-projects">Projects</a>
-  ·
   <a href="#-contributing">Contributing</a>
   ·
   <a href="#-license">License</a>
