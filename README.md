@@ -22,19 +22,6 @@ Welcome to Sabanicodes — a personal repository for building small, useful, and
 
 ---
 
-## 🛠️ Tech Stack
-
-This repository is intentionally flexible. It can include a mix of languages and tools such as:
-
-- Python
-- JavaScript / TypeScript
-- Bash / Shell
-- Node.js
-- HTML / CSS
-- Rust, Go, or other experiments
-
----
-
 ## 📦 Contributing
 
 Contributions are welcome.
