@@ -24,45 +24,6 @@
 
 Welcome to Sabanicodes — a personal repository for building small, useful, and sometimes playful things with code. This space is for experimenting, learning, and sharing projects that may start as quick prototypes and grow into something bigger.
 
-Whether it’s a script, tool, mini app, or a learning project, this repo is meant to be a creative home for code that is curious, practical, and fun.
-
----
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/sabanisensei/sabanicodes.git
-cd sabanicodes
-```
-
-Browse the folders and open the project you want to explore. Each project may have its own setup instructions in its own README or package file.
-
----
-
-## 🧩 Projects
-
-Use this repo as a container for:
-
-- Tiny scripts and utilities
-- Frontend experiments
-- Backend prototypes
-- Automation tools
-- Learning exercises
-- Demo projects
-
-A typical structure might look like this:
-
-```text
-sabanicodes/
-├── apps/
-├── scripts/
-├── tools/
-├── experiments/
-├── docs/
-├── README.md
-└── LICENSE
-```
-
 ---
 
 ## 🛠️ Tech Stack
@@ -95,20 +56,9 @@ A good project folder should usually include:
 
 ---
 
-## 🌱 Goals
-
-This repo is about:
-
-- learning by building
-- shipping small things quickly
-- keeping ideas organized
-- turning experiments into useful projects
-
----
-
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [license](LICENSE) file for details.
 
 ---
 
@@ -123,3 +73,8 @@ If you want to collaborate, suggest a feature, or just say hi, feel free to open
 <p align="center">
   <i>Happy coding.</i>
 </p>
+
+<p align="center">
+  <i>btw im not indian lol I made that name up</i>
+</p>
+
