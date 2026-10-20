@@ -41,7 +41,7 @@ A good project folder should usually include:
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [license](LICENSE) file for details.
+This project is licensed under the Apache V2 License. See the [license](LICENSE) file for details.
 
 ---
 
